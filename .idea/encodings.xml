@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Mini BI System Project - Backend/DataSourceConnector/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Mini BI System Project - Backend/DataSourceConnector/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Mini BI System Project - Backend/Report/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Mini BI System Project - Backend/Report/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Mini BI System Project - Backend/SQLHub/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Mini BI System Project - Backend/SQLHub/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Mini BI System Project - Backend/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Mini BI System Project - Backend/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
